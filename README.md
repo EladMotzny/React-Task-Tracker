@@ -1,3 +1,11 @@
+`This is a Task Manager project made using React and JSON server.`
+
+`You can add, delete and toggle a reminder for each task.`
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

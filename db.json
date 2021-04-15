@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Send Resume",
+      "day": "Apr 11th at 17:45",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Call grandpa",
+      "day": "Apr 11th at 12:00",
+      "reminder": true
+    },
+    {
+      "text": "Test adding task to server",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
